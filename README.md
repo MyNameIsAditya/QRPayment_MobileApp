@@ -15,6 +15,7 @@ Description
 1. TEST
 
 ## Example Videos
+<img src="https://github.com/MyNameIsAditya/Login_React-Native/blob/master/readme_resources/Login.gif" width="250">
 
 ## App Snapshots
 
