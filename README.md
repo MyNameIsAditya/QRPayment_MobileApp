@@ -23,8 +23,7 @@ This is a mobile application that allows users to make digital payments by scann
 <img src="https://github.com/MyNameIsAditya/Login_React-Native/blob/master/readme_resources/Login.gif" width="250">
 
 ## App Snapshots
-<img src="https://github.com/MyNameIsAditya/QRPayment_MobileApp/blob/master/readme_resources/IMG_7778.PNG" width="250">
-<img src="https://github.com/MyNameIsAditya/QRPayment_MobileApp/blob/master/readme_resources/IMG_7779.PNG" width="250">
+<img src="https://github.com/MyNameIsAditya/QRPayment_MobileApp/blob/master/readme_resources/IMG_7778.PNG" width="250"> <img src="https://github.com/MyNameIsAditya/QRPayment_MobileApp/blob/master/readme_resources/IMG_7779.PNG" width="250">
 <img src="https://github.com/MyNameIsAditya/QRPayment_MobileApp/blob/master/readme_resources/IMG_7780.PNG" width="250">
 <img src="https://github.com/MyNameIsAditya/QRPayment_MobileApp/blob/master/readme_resources/IMG_7781.PNG" width="250">
 <img src="https://github.com/MyNameIsAditya/QRPayment_MobileApp/blob/master/readme_resources/IMG_7782.PNG" width="250">
