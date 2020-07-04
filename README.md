@@ -6,13 +6,20 @@ This is a mobile application that allows users to make digital payments by scann
 ## Technologies
 
 ### Front-End
-1. TEST
+1. React-Native
+2. Node.js
+3. Expo
 
 ### Back-End
-1. TEST
+1. Python
+2. Flask
+3. PyMongo
+4. dnspython
+5. Python Cache Tools
+4. Postman
 
 ### Database
-1. TEST
+1. MongoDB
 
 ### APIs
 1. Visa Direct and mVisa
