@@ -27,11 +27,11 @@ This is a mobile application that allows users to make digital payments by scann
 3. QR Code Generation
 
 ## Example Videos
-<table style="width:100%">
+<table>
   <tr>
-    <td style="width:33%">Pay Mercant</td>
-    <td style="width:33%">Pay Cardholder</td>
-    <td style="width:33%">Pay with Menu</td>
+    <td>Pay Mercant</td>
+    <td>Pay Cardholder</td>
+    <td>Pay with Menu</td>
   </tr>
   <tr>
     <td><img src="https://github.com/MyNameIsAditya/QRPayment_MobileApp/blob/master/readme_resources/Merchant.gif" width=250></td>
@@ -40,7 +40,7 @@ This is a mobile application that allows users to make digital payments by scann
   </tr>
 </table>
 
-| Pay Mercant | Pay Cardholder | Pay with Menu |
+| &nbsp; &nbsp; Pay Mercant &nbsp; &nbsp; | &nbsp; &nbsp; Pay Cardholder &nbsp; &nbsp; | &nbsp; &nbsp; Pay with Menu &nbsp; &nbsp; |
 |     :---:      |     :---:      |     :---:      |
 | <img src="https://github.com/MyNameIsAditya/QRPayment_MobileApp/blob/master/readme_resources/Merchant.gif" width=250> | <img src="https://github.com/MyNameIsAditya/QRPayment_MobileApp/blob/master/readme_resources/P2P.gif" width=250> | <img src="https://github.com/MyNameIsAditya/QRPayment_MobileApp/blob/master/readme_resources/Menu.gif" width=250> |
 
