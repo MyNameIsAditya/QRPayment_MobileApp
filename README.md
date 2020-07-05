@@ -45,7 +45,7 @@ This is a mobile application that allows users to make digital payments by scann
 
 |  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Pay Mercant &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Pay Cardholder &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Pay with Menu &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 |     :---:      |     :---:      |     :---:      |
-| <img src="https://github.com/MyNameIsAditya/QRPayment_MobileApp/blob/master/readme_resources/Merchant.gif" width=250> | <img src="https://github.com/MyNameIsAditya/QRPayment_MobileApp/blob/master/readme_resources/P2P.gif" width=250> | <img src="https://github.com/MyNameIsAditya/QRPayment_MobileApp/blob/master/readme_resources/Menu.gif" width=250> |
+|  &nbsp; &nbsp; &nbsp; <img src="https://github.com/MyNameIsAditya/QRPayment_MobileApp/blob/master/readme_resources/Merchant.gif" width=250> &nbsp; &nbsp; &nbsp; | <img src="https://github.com/MyNameIsAditya/QRPayment_MobileApp/blob/master/readme_resources/P2P.gif" width=250> | <img src="https://github.com/MyNameIsAditya/QRPayment_MobileApp/blob/master/readme_resources/Menu.gif" width=250> |
 
 ## Getting Started - Front-End
 Use npm to install all of the required dependencies.
