@@ -27,21 +27,23 @@ This is a mobile application that allows users to make digital payments by scann
 3. QR Code Generation
 
 ## Example Videos
-[//]: Commented Out
-[//]:<table>
-[//]:  <tr>
-[//]:    <td>Pay Mercant</td>
-[//]:    <td>Pay Cardholder</td>
-[//]:    <td>Pay with Menu</td>
-[//]:  </tr>
-[//]:  <tr>
-[//]:    <td><img src="https://github.com/MyNameIsAditya/QRPayment_MobileApp/blob/master/readme_resources/Merchant.gif" width=250></td>
-[//]:    <td><img src="https://github.com/MyNameIsAditya/QRPayment_MobileApp/blob/master/readme_resources/P2P.gif" width=250></td>
-[//]:    <td><img src="https://github.com/MyNameIsAditya/QRPayment_MobileApp/blob/master/readme_resources/Menu.gif" width=250></td>
-[//]:  </tr>
-[//]:</table>
+<!--- Commented Out --->
+<!--- 
+<table>
+  <tr>
+    <td>Pay Mercant</td>
+    <td>Pay Cardholder</td>
+    <td>Pay with Menu</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/MyNameIsAditya/QRPayment_MobileApp/blob/master/readme_resources/Merchant.gif" width=250></td>
+    <td><img src="https://github.com/MyNameIsAditya/QRPayment_MobileApp/blob/master/readme_resources/P2P.gif" width=250></td>
+    <td><img src="https://github.com/MyNameIsAditya/QRPayment_MobileApp/blob/master/readme_resources/Menu.gif" width=250></td>
+  </tr>
+</table>
+--->
 
-| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Pay Mercant &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; Pay Cardholder &nbsp; &nbsp; | &nbsp; &nbsp; Pay with Menu &nbsp; &nbsp; |
+| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Pay Mercant &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; Pay Cardholder &nbsp; &nbsp; | &nbsp; &nbsp; Pay with Menu &nbsp; &nbsp; |
 |     :---:      |     :---:      |     :---:      |
 | <img src="https://github.com/MyNameIsAditya/QRPayment_MobileApp/blob/master/readme_resources/Merchant.gif" width=250> | <img src="https://github.com/MyNameIsAditya/QRPayment_MobileApp/blob/master/readme_resources/P2P.gif" width=250> | <img src="https://github.com/MyNameIsAditya/QRPayment_MobileApp/blob/master/readme_resources/Menu.gif" width=250> |
 
