@@ -7,8 +7,7 @@ This is a mobile application that allows users to make digital payments by scann
 
 ### Front-End
 1. React-Native
-2. Node.js
-3. Expo
+2. Expo
 
 ### Back-End
 1. Python
