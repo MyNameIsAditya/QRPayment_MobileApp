@@ -1,6 +1,5 @@
 # Mobile Application for Digital Payments with QR Codes
 
-## Awards
 :trophy: **Visa Global Hackathon Finalist** :trophy:
 
 ## Overview
