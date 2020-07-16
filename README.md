@@ -1,6 +1,6 @@
 # Mobile Application for Digital Payments with QR Codes
 
-## :trophy: Visa Global Hackathon Finalist :trophy:
+:trophy: Visa Global Hackathon Finalist :trophy:
 
 ## Overview
 This is a mobile application that allows users to make digital payments by scanning QR codes. It is compatible with both iOS and Android devices since it is made with React-Native. Users each have a unique QR code that can be scanned to make digital payments. Users are also able to view their personal QR code, funds, transaction history, and linked cards. This application must be connected to a digital wallet in order to work; it currently uses card test data. Visa APIs from VDP are used to conduct these digital transactions. The Visa Direct and mVisa APIs are used to transfer funds from the issuer to the acquirer during the payment lifecycle. The Payment Account Validation API is used to verify the sender and recipient accounts. This application allows users to make digital payments in a fun, fast, and easy way! 
