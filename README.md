@@ -11,13 +11,19 @@ This is a mobile application that allows users to make digital payments by scann
 1. React-Native
 2. Expo
 
-### Back-End
+### Back-End (Go)
+1. Go
+2. Gin
+3. MongoDB Go Driver
+4. Postman
+
+### Back-End (Python)
 1. Python
 2. Flask
 3. PyMongo
 4. dnspython
 5. Python Cache Tools
-4. Postman
+6. Postman
 
 ### Database
 1. MongoDB
@@ -59,13 +65,24 @@ Run the front-end locally with Expo.
 npm start
 ```
 
-## Getting Started - Back-End
+## Getting Started - Back-End (Go)
+Use the package manager to install all of the required dependencies.
+```
+go install
+```
+
+Run the Go executable to host locally.
+```
+VisaAppBackend_Go
+```
+
+## Getting Started - Back-End (Python)
 Use pip to install all of the required dependencies.
 ```
 pip install -r requirements.txt
 ```
 
-Run the python file (api.py) to host locally.
+Run the Python file (api.py) to host locally.
 ```
 python api.py
 ```
